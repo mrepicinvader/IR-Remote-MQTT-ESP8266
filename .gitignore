@@ -1,0 +1,16 @@
+.pio/
+.pio-core/
+.tools/
+.vscode/
+secrets.h
+include/secrets.h
+data/config.json
+data/runtime/
+*.bin
+*.elf
+*.map
+__pycache__/
+.env
+env_secrets.ini
+test/results/
+artifacts/
